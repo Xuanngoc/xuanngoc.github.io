@@ -3,16 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+## About me
+Hi there,
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am software engineer at PIXTA Inc.
+I am also interesting with NodeJS industries.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## About this blog
+This blog is a small site to sharing what I studying, leaning, working experience to you guys.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Maybe my articles are not good or even wrong, but I want to sharing to you or just my own to keep things.
 
+---
+Visit my github [xuanngoc](https://github.com/xuanngoc)
 
-[jekyll-organization]: https://github.com/jekyll
+Reach me at [ngocbui.se@gmail.com]()
