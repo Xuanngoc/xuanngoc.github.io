@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "[JS] Hidden threads in Javascript"
-date:   2022-03-06 16:43:22 +0700
+date:   2022-03-20 09:00 +0700
 categories: js multithreaded
 ---
-Is Javascript really single-thread language ?
+### Is Javascript really single-thread language ?
 
 While your JavaScript code may run, at least by default, in a single-threaded environ‐
 ment, that doesn’t mean the process running your code is single-threaded. In fact,

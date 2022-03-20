@@ -3,13 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
-## About me
+### About me
 Hi there,
 
-I am software engineer at PIXTA Inc.
+I am Ngoc Bui, software engineer at PIXTA Inc.
 I am also interesting with NodeJS industries.
 
-## About this blog
+Expertise:
+- Ruby on rails, NodeJS, ReactJS, NextJS
+- Docker, Kubernetes
+- AWS, GC
+
+### About this blog
 This blog is a small site to sharing what I studying, leaning, working experience to you guys.
 
 Maybe my articles are not good or even wrong, but I want to sharing to you or just my own to keep things.
