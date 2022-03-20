@@ -32,7 +32,7 @@ threads, including the one that the JavaScript code runs in. You can try this wi
 own Node.js programs, and even try changing the **UV_THREADPOOL_SIZE** environment
 variable to see the number of threads change.
 
-![threads](/assets/top-show-threads.png)
+![threads](../assets/top-show-threads.png)
 
 *Output from top, showing the threads in a Node.js process*
 
