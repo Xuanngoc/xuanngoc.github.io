@@ -6,8 +6,8 @@ categories: js multithreaded
 ---
 ### Is Javascript really single-thread language ?
 
-While your JavaScript code may run, at least by default, in a single-threaded environ‐
-ment, that doesn’t mean the process running your code is single-threaded. In fact,
+While your JavaScript code may run, at least by default, in a single-threaded environment, 
+that doesn’t mean the process running your code is single-threaded. In fact,
 many threads might be used to have that code running smoothly and efficiently. It’s a
 common misconception that Node.js is a single-threaded process.
 
@@ -25,7 +25,7 @@ be up to 1,024.
 
 On Linux systems, you can see these extra threads by using top -H on a given pro‐
 cess. In *Example*, a simple Node.js web server was started, and the PID was noted
-and passed to top. You can see the various V8 and libuv threads add up to seven
+and passed to top. You can see the various V8 and libuv threads add up to 11
 threads, including the one that the JavaScript code runs in. You can try this with your
 own Node.js programs, and even try changing the **UV_THREADPOOL_SIZE** environment
 variable to see the number of threads change.
@@ -35,7 +35,7 @@ variable to see the number of threads change.
 
 *Output from top, showing the threads in a Node.js process*
 
-It’s important to think about these extra threads when going through a resourceplanning exercise for your application. You should never assume that just because JavaScript is single-threaded that only one thread will be used by your JavaScript
+It’s important to think about these extra threads when going through a resource planning exercise for your application. You should never assume that just because JavaScript is single-threaded that only one thread will be used by your JavaScript
 application.
 
 ---
